@@ -1,4 +1,4 @@
-# A00X - Template de Prática
+# A016 - Template do Exercicio de Fixação
 **Vamos utilizar esse repositório para as práticas da aula!**
 
 ## Instruções para baixar
