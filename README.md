@@ -1,4 +1,4 @@
-# A016 - Template do Exercicio de Fixação
+# Laços II - Template de Prática
 **Vamos utilizar esse repositório para as práticas da aula!**
 
 ## Instruções para baixar
