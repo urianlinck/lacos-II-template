@@ -1,3 +1,25 @@
+// --------------- PRÁTICA GUIADA ---------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// --------------- EXERCÍCIO DE FIXAÇÃO ---------------
 const filmes = [
   {
     titulo: 'O Auto da Compadecida',
